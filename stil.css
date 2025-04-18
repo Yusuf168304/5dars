@@ -1,0 +1,101 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+    header{
+        padding-top: 46px
+    }
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 110px;
+    padding-left: -1000px;
+    margin-bottom: 0px;
+}
+.soz{
+    border: 1px solid red;
+    background-color: red;
+    width: 140px;
+    height: 30px;
+    color: white;
+    text-align: center;
+    padding-top: 7px;
+    border-radius: 15px;
+    font-size: 13px;
+    font-family: "Inter";
+    margin-left: ;
+    
+}
+body{
+    border-radius: 40px;
+    background: rgb(52, 60, 86);
+}
+.hero{
+    padding-top: 68px;
+    
+}
+.wrapper{
+        display: flex;
+        justify-content: space-around;
+}
+.qora{
+    width: 150px;
+    height: 70px;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-left: 700px;
+
+
+}
+.kotta{
+    width: 1000px;
+    height: 300px;
+    display: inline;
+    
+}
+.q {
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+    margin-top: 50px;
+
+}
+.aylana{
+    width: 300px;
+    height: 120px;
+    background-color: rgb(97, 255, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.flex{
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
+.a{
+    margin-left: 900px;
+    margin-top: -200px;
+}
